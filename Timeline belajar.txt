@@ -1,0 +1,18 @@
+belajar php oop native
+
+*time line belajar BASIC:
+    ->Class & Object 
+    ->Property & method
+    ->Constructor
+    ->Object Type
+    ->Inheritance
+    ->Visibility / Access Modifier
+    ->Setter & Getter
+    ->Static Method
+
+*Timeline Advanced:
+    ->Abstract & Interface
+    ->Interceptor
+    ->Object Cloning
+    ->Callback & Closures
+    ->Namespaces & Autoloading
